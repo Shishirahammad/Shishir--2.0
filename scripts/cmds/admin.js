@@ -17,7 +17,7 @@ module.exports = {
 		name: "admin",
 		aliases: ["adm"],
 		version: "2.0.0",
-		author: "SIFAT",
+		author: "Shishir",
 		countDown: 3,
 		role: 2,
 		description: { en: "ᴍᴀɴᴀɢᴇ ʙᴏᴛ ᴀᴅᴍɪɴꜱ" },
