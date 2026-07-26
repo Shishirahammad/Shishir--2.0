@@ -5,7 +5,7 @@ module.exports = {
     name: "theme",
     aliases: ["aitheme", "customtheme"],
     version: "4.0",
-    author: "SIFAT",
+    author: "Shishir",
     countDown: 5,
     role: 0,
     description: {
