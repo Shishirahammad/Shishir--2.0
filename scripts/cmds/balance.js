@@ -3,7 +3,7 @@ module.exports = {
 		name: "balance",
 		aliases: ["bal"],
 		version: "1.3",
-		author: "SIFAT",
+		author: "Shishir",
 		countDown: 5,
 		role: 0,
 		description: { en: "View your wealth card." },
