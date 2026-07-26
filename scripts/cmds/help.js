@@ -27,7 +27,7 @@ module.exports = {
     name: "help",
     aliases: ["menu"],
     version: "6.0",
-    author: "𝐒𝐈𝐅𝐀𝐓",
+    author: "shishir",
     shortDescription: "Show all available commands",
     longDescription: "Displays a categorized command list with a rotating video (different every time).",
     category: "system",
@@ -105,7 +105,7 @@ module.exports = {
         ` 🪷 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: ${toSmallCaps(category || "General")}\n` +
         ` 🪷 𝐀𝐥𝐢𝐚𝐬𝐞𝐬: ${aliases?.length ? aliases.join(", ") : "None"}\n` +
         ` 🪷 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: ${version || "1.0"}\n` +
-        ` 🪷 𝐀𝐮𝐭𝐡𝐨𝐫: ${author || "S1FU"}\n\n` +
+        ` 🪷 𝐀𝐮𝐭𝐡𝐨𝐫: ${author || "Shishir"}\n\n` +
         ` ┌──────ʚ🍄ɞ──────┐\n` +
         `  📖 𝐃𝐞𝐬𝐜: ${desc}\n\n` +
         `  💡 𝐔𝐬𝐚𝐠𝐞: ${usage}\n` +
