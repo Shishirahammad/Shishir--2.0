@@ -137,7 +137,7 @@ module.exports = {
     msg += `╭┈───────┈┈ ೄྀ࿐┐\n` +
            ` 🍄 𝐓𝐨𝐭𝐚𝐥: ${allCommands.size - 1}\n` +
            ` 🎀 𝐏𝐫𝐞𝐟𝐢𝐱: ${prefix}\n` +
-           ` 🌸𝐒𝐭𝐚𝐲 𝐇𝐚𝐩𝐩𝐲 & 𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥🌸\n` +
+           ` 👑Oᴡɴᴀʀ: AʜᴍᴇD's sʜɪ'sʜɪʀ🌸\n` +
            `╰┈──────┈──────┈─┘`;
 
     return message.reply({
